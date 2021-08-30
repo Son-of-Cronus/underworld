@@ -6,6 +6,16 @@
             <checksum>https://raw.githubusercontent.com/Son-of-Cronus/Underworld Repository/master/repo/zips/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/Son-of-Cronus/Underworld Repository/master/repo/zips/</datadir>
         </dir>
+            <dir minversion="18.0.0" maxversion="18.9.9">
+            <info compressed="false">https://raw.githubusercontent.com/Son-of-Cronus/Underworld Repository/master/leia/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Son-of-Cronus/Underworld Repository/master/leia/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Son-of-Cronus/Underworld Repository/master/leia/zips/</datadir>
+        </dir>
+        <dir minversion="19.0.0">
+            <info compressed="false">https://raw.githubusercontent.com/Son-of-Cronus/Underworld Repository/master/matrix/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Son-of-Cronus/Underworld Repository/master/matrix/zips/addons.xml.md5</checksum>
+        <   datadir zip="true">https://raw.githubusercontent.com/Son-of-Cronus/Underworld Repository/master/matrix/zips/</datadir>
+        </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary lang="en">Underworld Repository</summary>
