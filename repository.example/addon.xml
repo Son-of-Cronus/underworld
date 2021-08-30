@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="ADDON_ID_HERE" name="REPO_NAME_HERE" version="VERSION_NUMBER_HERE" provider-name="YOUR_USERNAME_HERE">
-    <extension point="xbmc.addon.repository" name="Example Repository">
+<addon id="repository.underworld" name="Underworld repository" version="0.0.1" provider-name="Son-of-Cronus">
+    <extension point="xbmc.addon.repository" name="Underworld Repository">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/YOUR_USERNAME_HERE/REPOSITORY_NAME_HERE/DEFAULT_BRANCH_NAME_HERE/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/YOUR_USERNAME_HERE/REPOSITORY_NAME_HERE/DEFAULT_BRANCH_NAME_HERE/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/YOUR_USERNAME_HERE/REPOSITORY_NAME_HERE/DEFAULT_BRANCH_NAME_HERE/repo/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/Son-of-Cronus/Underworld Repository/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Son-of-Cronus/Underworld Repository/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Son-of-Cronus/Underworld Repository/master/repo/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>REPO_NAME_HERE</summary>
-        <description>DESCRIPTION OF YOUR REPO HERE</description>
-        <disclaimer></disclaimer>
+        <summary>Underworld Repository</summary>
+        <description>DThe Underworld Repository</description>
+        <disclaimer>Unofficial Addons Repository for Kodi. The owners and submitters to this repository do not host or distribute any of the content displayed by these addons nor do they have any affiliation with the content providers.</disclaimer>
         <platform>all</platform>
         <assets>
             <icon>icon.png</icon>
