@@ -8,9 +8,9 @@
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>Underworld Repository</summary>
-        <description>DThe Underworld Repository</description>
-        <disclaimer>Unofficial Addons Repository for Kodi. The owners and submitters to this repository do not host or distribute any of the content displayed by these addons nor do they have any affiliation with the content providers.</disclaimer>
+        <summary lang="en">Underworld Repository</summary>
+        <description lang="en">DThe Underworld Repository</description>
+        <disclaimer lang="en">Unofficial Addons Repository for Kodi. The owners and submitters to this repository do not host or distribute any of the content displayed by these addons nor do they have any affiliation with the content providers.</disclaimer>
         <platform>all</platform>
         <assets>
             <icon>icon.png</icon>
