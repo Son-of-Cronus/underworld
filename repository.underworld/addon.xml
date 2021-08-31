@@ -37,8 +37,8 @@
             <datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
         </dir>
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/castagnait/repository.castagnait/master/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/castagnait/repository.castagnait/master/zips/addons.xml.md5</checksum>
+            <info compressed="false">https://raw.githubusercontent.com/castagnait/repository.castagnait/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/castagnait/repository.castagnait/master/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/castagnait/repository.castagnait/master/zips</datadir>
         </dir>
     </extension>
