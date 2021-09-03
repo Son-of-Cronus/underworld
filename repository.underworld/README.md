@@ -33,4 +33,4 @@ The Underworld Depository is licensed under a GNU General Public License v3.0, s
 ## Disclaimer
 The Underworld Depository is not connected to or in any other way affiliated with Kodi, Team Kodi or the XBMC Foundation. Furthermore, any software, addons, or products offered by RadioNL will only receive support in its Github repository.
 
-We, the Underworld Depository , are not responsible for any content that is accessible using the the Underworld Depository  Framework.
+We, the Underworld Depository, are not responsible for any content that is accessible using the the Underworld Depository  Framework.
