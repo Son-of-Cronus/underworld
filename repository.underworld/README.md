@@ -3,7 +3,22 @@ This repository holds the main code for the Underworld Repository. Issues regard
 ## Introduction
 The Underworld Repository is a Kodi add-on repository which allows you to install addons from the Underworld Repository.
 ## Installing the Underworld Repository
-Starting from Kodi Leia (v18), you can easily install the Underworld Repository from the official <a href="https://github.com/Son-of-Cronus/underworld/tree/master/repository.underworld/" rel="nofollow">Underworld</a> add-on repository. Simply use the search function in the add-ons section to find RadioNL and install it.
+Starting from Kodi Leia (v18), you can easily install the Underworld Repository from the official <a href="https://github.com/Son-of-Cronus/underworld/tree/master/repository.underworld/" rel="nofollow">Underworld</a> add-on repository. Simply download the latest release and install it. You may need to enable unknown sources in your Kodi settings.
+### Adding the Underworld Repository to your sources
+There are two ways to add the Underworld Repository to your sources:
+- In your main menu go and select “Addons” and select “Install from ZIP file”.
+- Browse to the “repository.underworld-x.x.zip” you just downloaded, and select the zip file for installation.
+- Wait until the notification appears that the repository was installed successfully.
+
+Or:
+
+- In your main menu go and select "system" and select "file manager".
+- Select “Add source” and click on “None”.
+- Type in the path “https://underworld.github.io/repo” and select “Done”.
+- Highlight the name box underneath and type in the name "Underworld Repository” and click “OK”.
+- Go back to your main menu and select “Addons” and select “Install from ZIP file”.
+- Open the source “Underworld Repository” and select the file “repository.underworld-x.x.zip”
+- Wait until the notification appears that the repository was installed successfully
 
 <strong>Note:</strong> Make sure the Auto-Update option for addons from this repository is enabled to automagically receive new updates.
 
